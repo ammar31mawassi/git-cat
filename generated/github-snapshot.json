@@ -1,0 +1,191 @@
+{
+  "user": {
+    "login": "ammar31mawassi",
+    "databaseId": 244724186,
+    "repositories": {
+      "nodes": [
+        {
+          "databaseId": 1100751708,
+          "name": "SPLand",
+          "url": "https://github.com/ammar31mawassi/SPLand",
+          "isFork": false,
+          "primaryLanguage": {
+            "name": "C++",
+            "color": "#f34b7d"
+          }
+        },
+        {
+          "databaseId": 1100763898,
+          "name": "STOMP-Emergency-Service-System",
+          "url": "https://github.com/ammar31mawassi/STOMP-Emergency-Service-System",
+          "isFork": false,
+          "primaryLanguage": {
+            "name": "C++",
+            "color": "#f34b7d"
+          }
+        },
+        {
+          "databaseId": 1100768463,
+          "name": "Concurrent-Robotics-Framework",
+          "url": "https://github.com/ammar31mawassi/Concurrent-Robotics-Framework",
+          "isFork": false,
+          "primaryLanguage": {
+            "name": "Java",
+            "color": "#b07219"
+          }
+        },
+        {
+          "databaseId": 1102064708,
+          "name": "Graphics-Assignment-1",
+          "url": "https://github.com/ammar31mawassi/Graphics-Assignment-1",
+          "isFork": false,
+          "primaryLanguage": {
+            "name": "C++",
+            "color": "#f34b7d"
+          }
+        },
+        {
+          "databaseId": 1127795331,
+          "name": "ComputerGraphic-Ass2",
+          "url": "https://github.com/ammar31mawassi/ComputerGraphic-Ass2",
+          "isFork": false,
+          "primaryLanguage": {
+            "name": "C++",
+            "color": "#f34b7d"
+          }
+        },
+        {
+          "databaseId": 1136825100,
+          "name": "ESPL-Labs",
+          "url": "https://github.com/ammar31mawassi/ESPL-Labs",
+          "isFork": false,
+          "primaryLanguage": {
+            "name": "C",
+            "color": "#555555"
+          }
+        },
+        {
+          "databaseId": 1149102364,
+          "name": "Compiler-Project",
+          "url": "https://github.com/ammar31mawassi/Compiler-Project",
+          "isFork": false,
+          "primaryLanguage": {
+            "name": "Assembly",
+            "color": "#6E4C13"
+          }
+        },
+        {
+          "databaseId": 1149822024,
+          "name": "dalili-your-academic-guide",
+          "url": "https://github.com/ammar31mawassi/dalili-your-academic-guide",
+          "isFork": false,
+          "primaryLanguage": {
+            "name": "TypeScript",
+            "color": "#3178c6"
+          }
+        },
+        {
+          "databaseId": 1157938923,
+          "name": "ComputerGraphics_Assignment3",
+          "url": "https://github.com/ammar31mawassi/ComputerGraphics_Assignment3",
+          "isFork": false,
+          "primaryLanguage": {
+            "name": "C++",
+            "color": "#f34b7d"
+          }
+        },
+        {
+          "databaseId": 1227219390,
+          "name": "CodingGame",
+          "url": "https://github.com/ammar31mawassi/CodingGame",
+          "isFork": false,
+          "primaryLanguage": {
+            "name": "Java",
+            "color": "#b07219"
+          }
+        },
+        {
+          "databaseId": 1239718607,
+          "name": "ai-job-tracker",
+          "url": "https://github.com/ammar31mawassi/ai-job-tracker",
+          "isFork": false,
+          "primaryLanguage": {
+            "name": "Python",
+            "color": "#3572A5"
+          }
+        },
+        {
+          "databaseId": 1243269642,
+          "name": "Personal-Portfolio",
+          "url": "https://github.com/ammar31mawassi/Personal-Portfolio",
+          "isFork": false,
+          "primaryLanguage": {
+            "name": "HTML",
+            "color": "#e34c26"
+          }
+        },
+        {
+          "databaseId": 1255315621,
+          "name": "repo-health-analyzer",
+          "url": "https://github.com/ammar31mawassi/repo-health-analyzer",
+          "isFork": false,
+          "primaryLanguage": {
+            "name": "TypeScript",
+            "color": "#3178c6"
+          }
+        },
+        {
+          "databaseId": 1264011482,
+          "name": "aa-projects",
+          "url": "https://github.com/ammar31mawassi/aa-projects",
+          "isFork": false,
+          "primaryLanguage": {
+            "name": "JavaScript",
+            "color": "#f1e05a"
+          }
+        },
+        {
+          "databaseId": 1270484654,
+          "name": "Elysium",
+          "url": "https://github.com/ammar31mawassi/Elysium",
+          "isFork": false,
+          "primaryLanguage": {
+            "name": "JavaScript",
+            "color": "#f1e05a"
+          }
+        },
+        {
+          "databaseId": 1405518521,
+          "name": "chess-AI",
+          "url": "https://github.com/ammar31mawassi/chess-AI",
+          "isFork": false,
+          "primaryLanguage": {
+            "name": "Python",
+            "color": "#3572A5"
+          }
+        },
+        {
+          "databaseId": 1423209160,
+          "name": "evidence-cv",
+          "url": "https://github.com/ammar31mawassi/evidence-cv",
+          "isFork": false,
+          "primaryLanguage": {
+            "name": "Python",
+            "color": "#3572A5"
+          }
+        },
+        {
+          "databaseId": 1438502263,
+          "name": "ammar31mawassi",
+          "url": "https://github.com/ammar31mawassi/ammar31mawassi",
+          "isFork": false,
+          "primaryLanguage": null
+        }
+      ],
+      "pageInfo": {
+        "hasNextPage": false
+      }
+    }
+  },
+  "collected_at_utc": "2026-11-09T14:16:44.830271+00:00"
+}

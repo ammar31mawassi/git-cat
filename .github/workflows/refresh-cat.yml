@@ -1,0 +1,53 @@
+name: Refresh coding cat
+
+on:
+  schedule:
+    - cron: '25 3 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'generate_cat.py'
+      - 'test_coat.py'
+      - 'assets/**'
+      - 'requirements.txt'
+      - '.github/workflows/refresh-cat.yml'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh-coding-cat
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    env:
+      GH_TOKEN: ${{ github.token }}
+      CAT_LOGIN: ${{ github.repository_owner }}
+    steps:
+      - uses: actions/checkout@v7.0.1
+      - uses: actions/setup-python@v7.1.0
+        with:
+          python-version: '3.12'
+          cache: pip
+      - name: Install dependencies
+        run: python -m pip install -r requirements.txt
+      - name: Check language rules and patch visibility
+        run: python -m unittest test_coat.py -v
+      - name: Collect public languages and render the cat
+        run: python generate_cat.py --login "$CAT_LOGIN" --refresh
+      - name: Commit the refreshed GIF and public snapshot
+        shell: bash
+        run: |
+          git add generated
+          if git diff --cached --quiet; then
+            echo "The cat is unchanged."
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit -m 'Refresh the coding cat from public GitHub languages'
+          git push
