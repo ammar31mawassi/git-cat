@@ -190,6 +190,26 @@
             "name": "Python",
             "color": "#3572A5"
           }
+        },
+        {
+          "databaseId": 1458710746,
+          "name": "Fraction-Addition",
+          "url": "https://github.com/ammar31mawassi/Fraction-Addition",
+          "isFork": false,
+          "primaryLanguage": {
+            "name": "Shell",
+            "color": "#89e051"
+          }
+        },
+        {
+          "databaseId": 1458713709,
+          "name": "Log-Function",
+          "url": "https://github.com/ammar31mawassi/Log-Function",
+          "isFork": false,
+          "primaryLanguage": {
+            "name": "Assembly",
+            "color": "#6E4C13"
+          }
         }
       ],
       "pageInfo": {
@@ -197,5 +217,5 @@
       }
     }
   },
-  "collected_at_utc": "2026-11-14T10:41:38.404401+00:00"
+  "collected_at_utc": "2026-11-15T11:14:22.607349+00:00"
 }
