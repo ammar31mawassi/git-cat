@@ -1,6 +1,6 @@
 {
   "login": "ammar31mawassi",
-  "collected_at_utc": "2026-11-16T11:45:51.215604+00:00",
+  "collected_at_utc": "2026-11-17T12:06:23.943016+00:00",
   "method": "Primary-language counts over all owned public non-fork repositories with a primary language.",
   "minimum_share": 0.05,
   "maximum_patches": 10,
@@ -10,7 +10,7 @@
   "patch_pixels": {
     "Java": 1456,
     "C++": 10381,
-    "Assembly": 7342,
+    "Assembly": 7886,
     "Python": 8536,
     "JavaScript": 4169,
     "TypeScript": 2349
@@ -34,8 +34,8 @@
     },
     {
       "name": "Assembly",
-      "count": 2,
-      "share": 0.09523809523809523,
+      "count": 3,
+      "share": 0.14285714285714285,
       "color": "#6E4C13",
       "color_fallback": false
     },
@@ -65,13 +65,6 @@
       "count": 1,
       "share": 0.047619047619047616,
       "color": "#555555",
-      "color_fallback": false
-    },
-    {
-      "name": "Dockerfile",
-      "count": 1,
-      "share": 0.047619047619047616,
-      "color": "#384d54",
       "color_fallback": false
     },
     {
@@ -106,8 +99,8 @@
     },
     {
       "name": "Assembly",
-      "count": 2,
-      "share": 0.09523809523809523,
+      "count": 3,
+      "share": 0.14285714285714285,
       "color": "#6E4C13",
       "color_fallback": false
     },
@@ -139,13 +132,6 @@
       "count": 1,
       "share": 0.047619047619047616,
       "color": "#555555",
-      "color_fallback": false
-    },
-    {
-      "name": "Dockerfile",
-      "count": 1,
-      "share": 0.047619047619047616,
-      "color": "#384d54",
       "color_fallback": false
     },
     {
