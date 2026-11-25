@@ -1,6 +1,6 @@
 {
   "login": "ammar31mawassi",
-  "collected_at_utc": "2026-11-24T13:58:09.503934+00:00",
+  "collected_at_utc": "2026-11-25T13:12:52.711752+00:00",
   "method": "Primary-language counts over all owned public non-fork repositories with a primary language.",
   "minimum_share": 0.05,
   "maximum_patches": 10,
@@ -8,76 +8,76 @@
   "patch_area_rule": "Patch sizes are illustrative; exact shares are shown in the legend.",
   "patch_count": 6,
   "patch_pixels": {
-    "Java": 1456,
-    "C++": 10381,
-    "Assembly": 7886,
-    "Python": 8536,
-    "JavaScript": 4169,
-    "TypeScript": 2349
+    "Java": 1547,
+    "C++": 10112,
+    "Assembly": 7770,
+    "Python": 8776,
+    "JavaScript": 4085,
+    "TypeScript": 2333
   },
-  "public_repositories": 22,
-  "eligible_repositories": 21,
+  "public_repositories": 24,
+  "eligible_repositories": 23,
   "languages": [
     {
       "name": "C++",
       "count": 5,
-      "share": 0.23809523809523808,
+      "share": 0.21739130434782608,
       "color": "#f34b7d",
       "color_fallback": false
     },
     {
       "name": "Python",
-      "count": 4,
-      "share": 0.19047619047619047,
+      "count": 5,
+      "share": 0.21739130434782608,
       "color": "#3572A5",
       "color_fallback": false
     },
     {
       "name": "Assembly",
       "count": 3,
-      "share": 0.14285714285714285,
+      "share": 0.13043478260869565,
       "color": "#6E4C13",
       "color_fallback": false
     },
     {
       "name": "Java",
-      "count": 2,
-      "share": 0.09523809523809523,
+      "count": 3,
+      "share": 0.13043478260869565,
       "color": "#b07219",
       "color_fallback": false
     },
     {
       "name": "JavaScript",
       "count": 2,
-      "share": 0.09523809523809523,
+      "share": 0.08695652173913043,
       "color": "#f1e05a",
       "color_fallback": false
     },
     {
       "name": "TypeScript",
       "count": 2,
-      "share": 0.09523809523809523,
+      "share": 0.08695652173913043,
       "color": "#3178c6",
       "color_fallback": false
     },
     {
       "name": "C",
       "count": 1,
-      "share": 0.047619047619047616,
+      "share": 0.043478260869565216,
       "color": "#555555",
       "color_fallback": false
     },
     {
       "name": "HTML",
       "count": 1,
-      "share": 0.047619047619047616,
+      "share": 0.043478260869565216,
       "color": "#e34c26",
       "color_fallback": false
     },
     {
       "name": "Shell",
       "count": 1,
-      "share": 0.047619047619047616,
+      "share": 0.043478260869565216,
       "color": "#89e051",
       "color_fallback": false
     }
@@ -86,42 +86,42 @@
     {
       "name": "C++",
       "count": 5,
-      "share": 0.23809523809523808,
+      "share": 0.21739130434782608,
       "color": "#f34b7d",
       "color_fallback": false
     },
     {
       "name": "Python",
-      "count": 4,
-      "share": 0.19047619047619047,
+      "count": 5,
+      "share": 0.21739130434782608,
       "color": "#3572A5",
       "color_fallback": false
     },
     {
       "name": "Assembly",
       "count": 3,
-      "share": 0.14285714285714285,
+      "share": 0.13043478260869565,
       "color": "#6E4C13",
       "color_fallback": false
     },
     {
       "name": "Java",
-      "count": 2,
-      "share": 0.09523809523809523,
+      "count": 3,
+      "share": 0.13043478260869565,
       "color": "#b07219",
       "color_fallback": false
     },
     {
       "name": "JavaScript",
       "count": 2,
-      "share": 0.09523809523809523,
+      "share": 0.08695652173913043,
       "color": "#f1e05a",
       "color_fallback": false
     },
     {
       "name": "TypeScript",
       "count": 2,
-      "share": 0.09523809523809523,
+      "share": 0.08695652173913043,
       "color": "#3178c6",
       "color_fallback": false
     }
@@ -130,21 +130,21 @@
     {
       "name": "C",
       "count": 1,
-      "share": 0.047619047619047616,
+      "share": 0.043478260869565216,
       "color": "#555555",
       "color_fallback": false
     },
     {
       "name": "HTML",
       "count": 1,
-      "share": 0.047619047619047616,
+      "share": 0.043478260869565216,
       "color": "#e34c26",
       "color_fallback": false
     },
     {
       "name": "Shell",
       "count": 1,
-      "share": 0.047619047619047616,
+      "share": 0.043478260869565216,
       "color": "#89e051",
       "color_fallback": false
     }

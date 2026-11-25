@@ -155,6 +155,16 @@
           }
         },
         {
+          "databaseId": 1289149007,
+          "name": "career-fit-ai",
+          "url": "https://github.com/ammar31mawassi/career-fit-ai",
+          "isFork": false,
+          "primaryLanguage": {
+            "name": "Python",
+            "color": "#3572A5"
+          }
+        },
+        {
           "databaseId": 1405518521,
           "name": "chess-AI",
           "url": "https://github.com/ammar31mawassi/chess-AI",
@@ -220,6 +230,16 @@
             "name": "Assembly",
             "color": "#6E4C13"
           }
+        },
+        {
+          "databaseId": 1461717605,
+          "name": "ocr-in-the-cloud",
+          "url": "https://github.com/ammar31mawassi/ocr-in-the-cloud",
+          "isFork": false,
+          "primaryLanguage": {
+            "name": "Java",
+            "color": "#b07219"
+          }
         }
       ],
       "pageInfo": {
@@ -227,5 +247,5 @@
       }
     }
   },
-  "collected_at_utc": "2026-11-24T13:58:09.503934+00:00"
+  "collected_at_utc": "2026-11-25T13:12:52.711752+00:00"
 }
